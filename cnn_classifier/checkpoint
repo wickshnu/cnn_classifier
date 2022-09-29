@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/vishnu/Documents/academics/ML_in_CE/project/cnn_classifier/cnn_classifier/bricksvsrebars-0.0005-6conv-basic.model"
+all_model_checkpoint_paths: "/home/vishnu/Documents/academics/ML_in_CE/project/cnn_classifier/cnn_classifier/bricksvsrebars-0.0005-6conv-basic.model"
